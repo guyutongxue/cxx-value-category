@@ -5,6 +5,7 @@
 - [表达式与对象](./expression.md)
 - [临时对象与实质化](./materialization.md)
 - [左值、右值、引用](./references.md)
+- [移动语义](./move_semantic.md)
 
 ## 阅读提示
 
